@@ -1,5 +1,6 @@
 # Traffic-Light-Detection
-![1](https://github.com/user-attachments/assets/3d1c4a4d-b985-4235-a0e2-0f0143ae85dd)
+
+![Magic Write 사용해 보기](https://github.com/user-attachments/assets/be8ace87-5ca9-48e9-bf00-417a89fee321)
 ![2](https://github.com/user-attachments/assets/59f25759-99a0-456b-bcfb-80d995c0ed9d)
 ![3](https://github.com/user-attachments/assets/7d59c66c-9bfd-407d-87de-95ebf7432902)
 ![4](https://github.com/user-attachments/assets/785d863d-764d-422d-9e69-e11b76bc610c)
